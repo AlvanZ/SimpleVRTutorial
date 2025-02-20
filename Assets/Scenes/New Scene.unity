@@ -3290,6 +3290,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   rotationSpeed: 30
+  cannonBarrel: {fileID: 1676767633}
 --- !u!1 &1676767632
 GameObject:
   m_ObjectHideFlags: 0
